@@ -32,3 +32,4 @@ date_format: "%Y-%M-%D" //and date format.
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
 # githublhj312131.githubio
+# sojinjeong.github.io
